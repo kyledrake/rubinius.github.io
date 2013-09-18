@@ -2,6 +2,5 @@
 markdown: rdiscount
 pygments: true
 permalink: pretty
-host: http://rubini.us
 exclude:
 - drafts
